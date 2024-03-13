@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cardfy-api-study/static/css/main.7fa90e52.css",
-    "main.js": "/cardfy-api-study/static/js/main.7b9c6d12.js",
+    "main.js": "/cardfy-api-study/static/js/main.87d1c38d.js",
     "index.html": "/cardfy-api-study/index.html",
     "main.7fa90e52.css.map": "/cardfy-api-study/static/css/main.7fa90e52.css.map",
-    "main.7b9c6d12.js.map": "/cardfy-api-study/static/js/main.7b9c6d12.js.map"
+    "main.87d1c38d.js.map": "/cardfy-api-study/static/js/main.87d1c38d.js.map"
   },
   "entrypoints": [
     "static/css/main.7fa90e52.css",
-    "static/js/main.7b9c6d12.js"
+    "static/js/main.87d1c38d.js"
   ]
 }
