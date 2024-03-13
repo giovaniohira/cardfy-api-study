@@ -1,0 +1,11 @@
+.teste {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px
+}
+.art {
+    width: 250px;
+    height: 250px;   
+    border-radius: 50px;
+}

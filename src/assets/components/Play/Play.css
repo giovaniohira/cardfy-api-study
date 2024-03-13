@@ -1,0 +1,22 @@
+.play-button {
+    background-color: #1db954;
+    height: 50px;
+    width: calc(100% - 40px);
+    border-radius: 50px;
+    margin: 0 20px 20px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.play-button:hover {
+    transition: 0.2s;
+    background-color: #14883d;
+}
+.play-icon {
+    height: 40px;
+    position: relative;
+    top: 4px;
+}

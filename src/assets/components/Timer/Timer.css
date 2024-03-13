@@ -1,0 +1,36 @@
+.wrapper {
+    width: 100%;
+}
+
+input {
+    width: 75%;
+    margin: 0px 20px 0px 20px;
+}
+
+input[type="range"] {
+    -webkit-appearance: none; /* Remove default styles on WebKit browsers */
+    width: calc(100% - 40px); /* Set the width of the range input to fill its container */
+    height: 5px; /* Set the height of the range input */
+    background-color: #B3B3B3; /* Set the background color of the range track */
+    border-radius: 5px; /* Set border radius to round the corners */
+    outline: none; /* Remove outline */
+}
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none; /* Remove default styles on WebKit browsers */
+    width: 20px; /* Set the width of the slider thumb */
+    height: 20px; /* Set the height of the slider thumb */
+    background-color: #535353; /* Set the background color of the slider thumb */
+    border: solid 1px;
+    border-radius: 50%; /* Create a circular thumb */
+    cursor: pointer; /* Change cursor to pointer */
+  }
+
+
+.time {
+    display: flex;
+    justify-content: space-between;
+}
+span {
+    margin: 20px;
+    color: white;
+}
