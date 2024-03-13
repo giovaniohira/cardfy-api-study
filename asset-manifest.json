@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cardfy-api-study/static/css/main.7fa90e52.css",
+    "main.js": "/cardfy-api-study/static/js/main.7b9c6d12.js",
+    "index.html": "/cardfy-api-study/index.html",
+    "main.7fa90e52.css.map": "/cardfy-api-study/static/css/main.7fa90e52.css.map",
+    "main.7b9c6d12.js.map": "/cardfy-api-study/static/js/main.7b9c6d12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa90e52.css",
+    "static/js/main.7b9c6d12.js"
+  ]
+}
