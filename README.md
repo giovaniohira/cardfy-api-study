@@ -10,6 +10,7 @@ This project is a simple web application built to explore working with APIs, spe
 - Responsive design for optimal viewing across devices.
 
 **Technologies Used:**
+- React.js
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
