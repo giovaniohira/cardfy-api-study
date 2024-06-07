@@ -1,4 +1,5 @@
 **Project Name: Cardsfy**
+https://giovaniohira.github.io/cardfy-api-study/
 
 **Description:**
 This project is a simple web application built to explore working with APIs, specifically the Spotify API. The application takes a Spotify music URL as input and generates a card displaying relevant data about the song or album associated with that URL. It serves as a practical learning exercise for understanding API integration and frontend development.
